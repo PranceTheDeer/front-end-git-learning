@@ -4,13 +4,17 @@ h1 {
 }
 
 .funky-text {
-	color: purple;
+	color: violet;
 }
 
 .get-away-from-me {
-	margin-top: 200rem;
+	margin-top: 50rem;
 }
 
 .danger-text {
 	color: red !important;
+}
+
+.wacky-peach {
+	color: PeachPuff;
 }
