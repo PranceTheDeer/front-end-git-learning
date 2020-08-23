@@ -1,0 +1,16 @@
+h1 {
+	color: red;
+	font-size: 60px
+}
+
+.funky-text {
+	color: purple;
+}
+
+.get-away-from-me {
+	margin-top: 200rem;
+}
+
+.danger-text {
+	color: red !important;
+}
