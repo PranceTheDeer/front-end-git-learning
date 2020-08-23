@@ -14,3 +14,7 @@ h1 {
 .danger-text {
 	color: red !important;
 }
+
+.cool-text {
+	color: blue;
+}
